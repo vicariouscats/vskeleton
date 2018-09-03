@@ -5,7 +5,7 @@ export default class ProfileScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>PROFILE SCREEN</Text>
+        <Text>Lea's PROFILE SCREEN</Text>
       </View>
     );
   }
